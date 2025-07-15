@@ -8,7 +8,7 @@ This project about a 3D robotic arm with 5 degrees of freedom (5DOF) built using
 4. Wrist lift
 5. Wrist rotation
 
-
+![Robotic Arm](3D arms.png)
 Figure 1: 3D robotic arm with 5DOF simulated in Tinkercad.
 
 
